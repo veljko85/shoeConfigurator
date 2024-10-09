@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="./vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jasperosso</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" rel="stylesheet">
+
+  <!-- lootie -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.6.4/lottie_svg.min.js"></script>
+  <script type="module" crossorigin src="./assets/index-CXHpSvE8.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-BKDcMnnB.css">
+</head>
+
+<body>
+  <div id="mainContainer">
+
+    <!-- loading spinner -->
+    <div id="loadingSpinner">
+      <div id="loadingSpinnerBorder"></div>
+      <div id="loadingPercentages">0%</div>
+      <div id="loadingLogo"></div>
+      <!-- <div id="loadingLogo" style="background-image: url(jasperosso_logo_txt_black.svg)"></div> -->
+    </div>
+
+    <!-- FLIP PHONE -->
+    <div id="orientationScreenContainer">
+      <div id="orientationScreenImg"></div>
+      <!-- <div id="orientationScreenImg" style="background-image: url(rotate-smartphone.svg)"></div> -->
+      <div id="orientationScreenText">Please rotate your device</div>
+    </div>
+
+    <!-- CONFIGURATOR -->
+    <div id="configuratorContainer">
+
+      <!-- title bar -->
+      <div id="titleBar">
+        <div id="titleBarLeftSide"></div>
+        <div id="titleBarRightSide"></div>
+      </div>
+
+      <!-- nav bar -->
+      <div id="navBarContainer">
+        <div id="navBarTitleContainer">
+          <div id="navBarTitle"></div>
+          <!-- <div id="navBarTitle" style="background-image: url(jasperosso_logo_txt_white.svg)"></div> -->
+        </div>
+        <div id="navBar">
+          <!-- <div class="nav-element-container">
+            <div class="nav-element-container-two">
+              <div id="navToe" class="nav-element">TOE</div>
+              <div class="animated-hover-bar-container">
+                <div class="animated-hover-bar"></div>
+              </div>
+            </div>
+          </div> -->
+        </div>
+        <div id="navBarMobBackground"></div>
+      </div>
+
+      <!-- canvas and sidebar -->
+      <div id="canvasAndSidebar">
+
+        <div id="modelNameContainer">
+          <div id="modelTypeDisplay">Oxford</div>
+          <div id="modelVariantDisplay">Half Brogue</div>
+        </div>
+
+        <!-- canvas -->
+        <canvas id="renderCanvas"></canvas>
+
+        <!-- apply to all materials button -->
+        <div class="applyToAllMaterialsContainer" id="applyToAllMaterialsContainer">
+          <div class="applyToAllMaterialsImg" id="applyToAllMaterialsImg"></div>
+          <div class="applyToAllMaterialsText">APPLY TO ALL</div>
+        </div>
+
+        <!-- side bar -->
+        <div id="sideBar">
+          <div id="optionsSideBar"></div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div id="debugMode"></div>
+
+  </div>
+</body>
+
+</html>

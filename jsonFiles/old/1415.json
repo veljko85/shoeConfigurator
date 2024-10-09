@@ -1,0 +1,1437 @@
+{
+    "product": {
+        "id": "75b49184-a109-4489-9abf-481a445c71f7",
+        "sku": "4288",
+        "type": "Sneakers",
+        "variant": "4288",
+        "price": 200,
+        "containers": {
+            "lace_colours": {
+                "927e71e5-4fc8-4889-ac69-e433ca35460d": {
+                    "type": "texture",
+                    "title": "Beige",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_beige.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_Biege.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                },
+                "9e2df71c-599f-4008-ad5b-3091fffde939": {
+                    "type": "texture",
+                    "title": "Beige",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_beige.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Biege.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "e6994696-fabd-452c-a50e-7c66a60a0512": {
+                    "type": "texture",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_black.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Black.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "1294096f-0fe5-40be-876b-f954022da650": {
+                    "type": "texture",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_black.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_Black.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                },
+                "de6adac0-71d8-4836-bace-4a3336d4f73d": {
+                    "type": "texture",
+                    "title": "Blue",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_blue.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Blue.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "64f9fc84-9e46-4aa1-8ee8-cb63cd414c33": {
+                    "type": "texture",
+                    "title": "Blue",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_blue.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_Blue.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                },
+                "b48a59a3-b409-43c8-920e-ffb2e521bc71": {
+                    "type": "texture",
+                    "title": "Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_brown.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_Brown.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                },
+                "ee196837-5ec7-492f-bff8-ab9dd0ed26ac": {
+                    "type": "texture",
+                    "title": "Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_brown.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Brown.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "650dc9d1-0b8a-44ca-935f-ed819d8f2281": {
+                    "type": "texture",
+                    "title": "Red",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_red.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Red.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "68374833-b546-4bce-aece-af7c6d44593c": {
+                    "type": "texture",
+                    "title": "Red",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_red.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_Red.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                },
+                "5b57b115-a1b6-41e0-9f09-23f26a57d7cb": {
+                    "type": "texture",
+                    "title": "White",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_white.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_White.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/waxed-2mm/WaxLaces_Metallic.jpg"
+                    }
+                },
+                "d8a7a67f-8be7-4f31-bbf9-1a4017612b70": {
+                    "type": "texture",
+                    "title": "White",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_white.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/SneakerLaces_White.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_normal.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/laces/sneakers-8mm/Laces_metallic.jpg"
+                    }
+                }
+            },
+            "lace_types": {
+                "dea0faf6-6b31-40ed-82f8-844d003e38ec": {
+                    "title": "Flat Laces 8mm",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                },
+                "e157c2eb-e8fb-4cbd-82d8-f205df695971": {
+                    "title": "Wax Round Laces 2mm",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                }
+            },
+            "lining_colours": {
+                "c520b359-8c2e-4899-b7d4-588925282666": {
+                    "type": "texture",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_black.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Black.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Metallic.jpg"
+                    }
+                },
+                "dc614a72-3e3f-4c7c-911a-84ae9a0626bc": {
+                    "type": "texture",
+                    "title": "Natural",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_natural.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Natural.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Metallic.jpg"
+                    }
+                },
+                "8e6d159f-67c7-40b1-abaa-0e6893e2cf17": {
+                    "type": "texture",
+                    "title": "Navy Blue",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_navy_blue.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_NavyBlue.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Metallic.jpg"
+                    }
+                },
+                "cb0af97e-e1cb-4a6a-807a-b592846382c8": {
+                    "type": "texture",
+                    "title": "Red",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_red.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Red.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/lining/Lining_Metallic.jpg"
+                    }
+                }
+            },
+            "materials": {
+                "668a1449-bb3b-42b3-bfc1-caa215823854": {
+                    "type": "texture",
+                    "title": "Alce Passion",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Alce_Passion.jpg",
+                    "textures": {
+                        "texture_scale_u": 2,
+                        "texture_scale_v": 2,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alce_passion/Alce_Passion_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alce_passion/Alce_Passion_NormalOpenGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alce_passion/Alce_Passion_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alce_passion/Alce_Passion_Metallic.jpg"
+                    }
+                },
+                "ef18221e-3ab0-4959-9b22-7d9e52378b4e": {
+                    "type": "texture",
+                    "title": "Aligator Whiskey",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Alligator_Whisky.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alligator_whiskey/Alligator_Whisky_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alligator_whiskey/Alligator_Whisky_NormalOGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alligator_whiskey/Alligator_Whisky_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/alligator_whiskey/Alligator_Whisky_Metallic.jpg"
+                    }
+                },
+                "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8": {
+                    "type": "texture",
+                    "title": "Antique",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/antique_thumb.jpg",
+                    "textures": {
+                        "texture_scale_u": 2,
+                        "texture_scale_v": 2,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/antique/Antique_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/antique/Antique_Normal_OGL.jpg",
+                        "roughness": "",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/antique/Antique_Metallic.jpg"
+                    }
+                },
+                "15c41548-a35b-4f0d-8e16-70322cb7e546": {
+                    "type": "texture",
+                    "title": "Baltimora Campari",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Baltimora_Campari.jpg",
+                    "textures": {
+                        "texture_scale_u": 2,
+                        "texture_scale_v": 2,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/baltimora_campari/Baltimora_Campari_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/baltimora_campari/Baltimora_Campari_Normal_OGL.jpg",
+                        "roughness": "",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/baltimora_campari/Baltimora_Campari_Metallic.jpg"
+                    }
+                },
+                "cd145259-ddf7-497a-9242-42de73edb542": {
+                    "type": "texture",
+                    "title": "Binder 295",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Binder_295.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/binder_295/Binder_295_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/binder_295/Binder_295_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/binder_295/Binder_295_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/binder_295/Binder_295_Metallic.jpg"
+                    }
+                },
+                "3a3cf8c7-d447-40cb-96b6-77d529a39f2c": {
+                    "type": "texture",
+                    "title": "Camoscio Blu 104",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Camoscio_Blu_104.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/camoscio_blu/Camoscio_Blu_104_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/camoscio_blu/Camoscio_Blu_104_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/camoscio_blu/Camoscio_Blu_104_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/camoscio_blu/Camoscio_Blu_104_Metallic.jpg"
+                    }
+                },
+                "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a": {
+                    "type": "texture",
+                    "title": "Canvas Beige",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Canvas_Beige.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/canvas_beige/Canvas_Beige_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/canvas_beige/Canvas_Beige_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/canvas_beige/Canvas_Beige_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/canvas_beige/Canvas_Beige_Metallic.jpg"
+                    }
+                },
+                "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74": {
+                    "type": "texture",
+                    "title": "Capri Mud",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Capri_Mud.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/capri_mud/Capri_Mud_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/capri_mud/Capri_Mud_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/capri_mud/Capri_Mud_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/capri_mud/Capri_Mud_Metallic.jpg"
+                    }
+                },
+                "8d1b1850-917c-4608-97c2-0291f455e871": {
+                    "type": "texture",
+                    "title": "Cherry 276",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Cherry_276.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cherry_276/Cherry_276_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cherry_276/Cherry_276_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cherry_276/Cherry_276_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cherry_276/Cherry_276_Metallic.jpg"
+                    }
+                },
+                "3b10ac16-4f61-4306-a20a-659725d10f42": {
+                    "type": "texture",
+                    "title": "Cocco Lux",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Cocco_Lux_BW.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cocco_lux_bw/Cocco_Lux_BW_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cocco_lux_bw/Cocco_Lux_BW_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cocco_lux_bw/Cocco_Lux_BW_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/cocco_lux_bw/Cocco_Lux_BW_Metallic.jpg"
+                    }
+                },
+                "cb0a8607-3fb8-4130-8a57-821844cb12d9": {
+                    "type": "texture",
+                    "title": "Gaucho Nero",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Gaucho_Nero.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/gaucho_nero/Gaucho_Nero_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/gaucho_nero/Gaucho_Nero_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/gaucho_nero/Gaucho_Nero_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/gaucho_nero/Gaucho_Nero_Metallic.jpg"
+                    }
+                },
+                "093b5564-abc1-4ea3-9559-6da40418fcf3": {
+                    "type": "texture",
+                    "title": "Kaleido",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Kaleido.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/kalaido/Kaleido_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/kalaido/Kaleido_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/kalaido/Kaleido_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/kalaido/Kaleido_Metallic.jpg"
+                    }
+                },
+                "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463": {
+                    "type": "texture",
+                    "title": "Princess Blu",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Princess_Blu.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/princess_blu/Princess_Blu_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/princess_blu/Princess_Blu_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/princess_blu/Princess_Blu_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/princess_blu/Princess_Blu_Metallic.jpg"
+                    }
+                },
+                "4199b465-1442-466a-93ee-e27f6e1e293b": {
+                    "type": "texture",
+                    "title": "Vernice BW Notte",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Vernice_BW_Notte.jpg",
+                    "textures": {
+                        "texture_scale_u": 4,
+                        "texture_scale_v": 4,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vernice_bw_notte/Vernice_BW_Notte_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vernice_bw_notte/Vernice_BW_Notte_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vernice_bw_notte/Vernice_BW_Notte_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vernice_bw_notte/Vernice_BW_Notte_Metallic.jpg"
+                    }
+                },
+                "c6f963f5-29a8-4ad9-9845-1411447a6831": {
+                    "type": "texture",
+                    "title": "Vitello Krust Chicchi Riso",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Vitello_Krust_Chicchi_Riso.jpg",
+                    "textures": {
+                        "texture_scale_u": 2,
+                        "texture_scale_v": 2,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_krust_chicchi_riso/Vitello_Krust_Chicchi_Riso_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_krust_chicchi_riso/Vitello_Krust_Chicchi_Riso_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_krust_chicchi_riso/Vitello_Krust_Chicchi_Riso_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_krust_chicchi_riso/Vitello_Krust_Chicchi_Riso_Metallic.jpg"
+                    }
+                },
+                "bb52a0b9-193b-412d-a994-542f9f1100cb": {
+                    "type": "texture",
+                    "title": "Vittello Francia Superior",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Vittello_Francia_Superior.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_francia_superior/Vittello_Francia_Superior_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_francia_superior/Vittello_Francia_Superior_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_francia_superior/Vittello_Francia_Superior_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/vitello_francia_superior/Vittello_Francia_Superior_Metallic.jpg"
+                    }
+                },
+                "4d1b94f7-1cb5-4f08-9f11-b072d968666a": {
+                    "type": "texture",
+                    "title": "Yaz 02",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/ui/Yaz_02.jpg",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/yaz_02/Yaz_02_BaseColor.jpg",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/yaz_02/Yaz_02_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/yaz_02/Yaz_02_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/textures/yaz_02/Yaz_02_Metallic.jpg"
+                    }
+                }
+            },
+            "material_types": {
+                "d4e693ef-4d6f-443f-9048-1fd5e6aa9c11": {
+                    "title": "Antiqued Calf"
+                },
+                "2ddfdc08-f5cb-4e13-b813-505976c69cd1": {
+                    "title": "Baltimora"
+                },
+                "e40f7da2-2213-4966-b198-693534df5703": {
+                    "title": "Box Calf"
+                },
+                "ca40f043-ea7f-4623-9edc-843feeca1e22": {
+                    "title": "Canvas"
+                },
+                "e9951487-797a-4356-b125-11ac3f605413": {
+                    "title": "Exotic"
+                },
+                "a26f00d1-3b13-44f9-bd26-3c1536ee6be9": {
+                    "title": "French Calf"
+                },
+                "d47a632d-0c75-4536-9493-513a3a15dbf5": {
+                    "title": "Gaucho Calf"
+                },
+                "4c37e08d-643f-4a3e-a7df-1bef651f6825": {
+                    "title": "Grained Calf"
+                },
+                "359e0717-e8df-4bdb-bcf6-24fb60e1e9cf": {
+                    "title": "Patent"
+                },
+                "53b3fb5a-7393-4b07-937d-9e891f14b517": {
+                    "title": "Polished Calf"
+                },
+                "da97837f-dd40-44dd-9821-4b5c01bf08c2": {
+                    "title": "Suede"
+                }
+            },
+            "medallions": {
+                "3f5f070f-90e9-46a5-96d7-58f97fc33416": {
+                    "title": "Medallion 1",
+                    "surcharge": 20,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                }
+            },
+            "sole_colours": {
+                "98077c9f-4db2-43e5-b15c-0877aa986e8c": {
+                    "type": "colour",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "colour": {
+                        "hex": "#000000",
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                    }
+                },
+                "9d7b334a-f1b6-47f4-bb2c-ff8bc1110e50": {
+                    "type": "colour",
+                    "title": "Dark Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "colour": {
+                        "hex": "#231916",
+                        "r": 35,
+                        "g": 25,
+                        "b": 22
+                    }
+                },
+                "75869a28-b5b9-4777-afbe-fd6dd1cbaff1": {
+                    "type": "colour",
+                    "title": "White",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "colour": {
+                        "hex": "#ffffff",
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                    }
+                }
+            },
+            "sole_edge_colours": {
+                "d99a3a27-2269-498a-8c2e-f9b164165a35": {
+                    "type": "texture",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/black/Black_Base_color.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/black/Black_Normal_OpenGL.png",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/black/Black_Roughness.png",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/black/Black_Metallic.png"
+                    },
+                    "picado_colour": {
+                        "hex": "#464444",
+                        "r": 70,
+                        "g": 68,
+                        "b": 68
+                    }
+                },
+                "12c0e463-9b91-4aa5-8baf-94773771597f": {
+                    "type": "texture",
+                    "title": "Dark Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/dark_brown/Dark_brown_Base_color.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/dark_brown/Dark_brown_Normal_OpenGL.png",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/dark_brown/Dark_brown_Roughness.png",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/dark_brown/Dark_brown_Metallic.png"
+                    },
+                    "picado_colour": {
+                        "hex": "#856157",
+                        "r": 133,
+                        "g": 97,
+                        "b": 87
+                    }
+                },
+                "1cb7e5c2-8d39-4031-8adb-8257010132cf": {
+                    "type": "texture",
+                    "title": "Light Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/light_brown/Light_brown_Base_color.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/light_brown/Light_brown_Normal_OpenGL.png",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/light_brown/Light_brown_Roughness.png",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/light_brown/Light_brown_Metallic.png"
+                    },
+                    "picado_colour": {
+                        "hex": "#6d5146",
+                        "r": 109,
+                        "g": 81,
+                        "b": 70
+                    }
+                },
+                "5bc5245a-664c-4827-aafc-2c79b51abe35": {
+                    "type": "texture",
+                    "title": "Natural",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/natural/Natural_Base_color.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/natural/Natural_Normal_OpenGL.png",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/natural/Natural_Roughness.png",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/sole_edge/natural/Natural_Metallic.png"
+                    },
+                    "picado_colour": {
+                        "hex": "#7d5938",
+                        "r": 125,
+                        "g": 89,
+                        "b": 56
+                    }
+                }
+            },
+            "sole_types": {
+                "512ab730-5010-468f-9173-004c7f360f44": {
+                    "title": "Cemented",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                },
+                "a31dfcde-ded6-46f5-af7b-a8f032963269": {
+                    "title": "Double Sole",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                },
+                "94d451e3-90ae-4932-a255-3138ef086ebd": {
+                    "title": "Goodyear Welted",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                },
+                "3260cd40-dd36-457b-b38e-581d01e6b58e": {
+                    "title": "Rapid Blake Stitching",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                },
+                "07be318c-9fef-440d-823c-95078abfaa52": {
+                    "title": "Rubber",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png"
+                }
+            },
+            "stitching_colours": {
+                "63cf5fbe-de18-4321-ab0b-cafcb2e450e5": {
+                    "type": "texture",
+                    "title": "Black",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_black.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_Black_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "3981ab8f-3789-4c02-99a4-cf65f077816e": {
+                    "type": "texture",
+                    "title": "Blue",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_blue.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_Blue_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "6bfb98ae-aebf-4552-b37e-5b1ec0f7b998": {
+                    "type": "texture",
+                    "title": "Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_dark_brown.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_Brown_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "cfb9780e-52ab-432b-9dfc-108ca95c5d87": {
+                    "type": "texture",
+                    "title": "Dark Brown",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_brown.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_DarkBrown_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "b3e252d4-ff16-4049-addf-07870250b780": {
+                    "type": "texture",
+                    "title": "Green",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_green.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_Green_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "387f1598-8a00-4b94-8911-1445fae4ab1d": {
+                    "type": "texture",
+                    "title": "Red",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_red.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_Red_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                },
+                "09ebeb9e-6536-4fff-8196-6fd2a3194380": {
+                    "type": "texture",
+                    "title": "White",
+                    "surcharge": 0,
+                    "image": "https://jasperosso-public-production.s3.amazonaws.com/web/colours/colour_white.png",
+                    "textures": {
+                        "texture_scale_u": 1,
+                        "texture_scale_v": 1,
+                        "base": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/no-border/Stitching_White_NS.png",
+                        "normal": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Normal_OGL.jpg",
+                        "roughness": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Roughness.jpg",
+                        "metallic": "https://jasperosso-public-production.s3.amazonaws.com/web/materials/stitching/Stitching_Metallic.jpg"
+                    }
+                }
+            },
+            "heel_monogram": {
+                "surcharge": 10
+            }
+        },
+        "model": {
+            "glb": "https://jasperosso-public-production.s3.amazonaws.com/web/models/sneakers/4288.glb",
+            "defaults": {
+                "options": {
+                    "lace_types": "dea0faf6-6b31-40ed-82f8-844d003e38ec",
+                    "lace_colours": "68374833-b546-4bce-aece-af7c6d44593c",
+                    "lining_colours": "c520b359-8c2e-4899-b7d4-588925282666",
+                    "sole_types": "07be318c-9fef-440d-823c-95078abfaa52",
+                    "sole_colours": "75869a28-b5b9-4777-afbe-fd6dd1cbaff1",
+                    "stitching_colours": "63cf5fbe-de18-4321-ab0b-cafcb2e450e5"
+                },
+                "extras": {
+                    "heel_monogram": {
+                        "letter1": "J",
+                        "letter2": "R"
+                    }
+                },
+                "panels": [
+                    {
+                        "id": "aa3afc7a-5c85-47d4-960e-b76a5c2f8d2c",
+                        "title": "Vamp",
+                        "mesh": "panel-vamp",
+                        "material": "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                    },
+                    {
+                        "id": "194cc34f-2e03-4114-8260-c608f7d6d803",
+                        "title": "Facing Left",
+                        "mesh": "panel-facing-left",
+                        "material": "668a1449-bb3b-42b3-bfc1-caa215823854"
+                    },
+                    {
+                        "id": "eef3d3f7-84b9-48ea-939a-088d8015928b",
+                        "title": "Facing Right",
+                        "mesh": "panel-facing-right",
+                        "material": "668a1449-bb3b-42b3-bfc1-caa215823854"
+                    },
+                    {
+                        "id": "d14ef85e-52ee-4bc7-a1b5-cec6cdd26d55",
+                        "title": "Tongue",
+                        "mesh": "panel-tongue-face",
+                        "material": "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                    },
+                    {
+                        "id": "c9d73e5a-40aa-49e3-a3b4-495ae66c2f0d",
+                        "title": "Quarter",
+                        "mesh": "panel-quarter",
+                        "material": "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                    },
+                    {
+                        "id": "be8e34d9-9ef1-464b-810b-df5ee0f403cd",
+                        "title": "Heel",
+                        "mesh": "panel-heel",
+                        "material": "668a1449-bb3b-42b3-bfc1-caa215823854"
+                    }
+                ]
+            }
+        }
+    },
+    "ui": {
+        "panels": [
+            {
+                "id": "aa3afc7a-5c85-47d4-960e-b76a5c2f8d2c",
+                "title": "Vamp",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "194cc34f-2e03-4114-8260-c608f7d6d803",
+                "title": "Facing Left",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "eef3d3f7-84b9-48ea-939a-088d8015928b",
+                "title": "Facing Right",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "d14ef85e-52ee-4bc7-a1b5-cec6cdd26d55",
+                "title": "Tongue",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "c9d73e5a-40aa-49e3-a3b4-495ae66c2f0d",
+                "title": "Quarter",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "id": "be8e34d9-9ef1-464b-810b-df5ee0f403cd",
+                "title": "Heel",
+                "groups": [
+                    {
+                        "title": "Box Calf",
+                        "options": [
+                            "f4a53f52-8ab0-4fd3-a7bb-cb1de5b63463"
+                        ]
+                    },
+                    {
+                        "title": "Grained Calf",
+                        "options": [
+                            "668a1449-bb3b-42b3-bfc1-caa215823854",
+                            "c6f963f5-29a8-4ad9-9845-1411447a6831"
+                        ]
+                    },
+                    {
+                        "title": "Suede",
+                        "options": [
+                            "3a3cf8c7-d447-40cb-96b6-77d529a39f2c"
+                        ]
+                    },
+                    {
+                        "title": "French Calf",
+                        "options": [
+                            "bb52a0b9-193b-412d-a994-542f9f1100cb"
+                        ]
+                    },
+                    {
+                        "title": "Polished Calf",
+                        "options": [
+                            "cd145259-ddf7-497a-9242-42de73edb542",
+                            "8d1b1850-917c-4608-97c2-0291f455e871"
+                        ]
+                    },
+                    {
+                        "title": "Antiqued Calf",
+                        "options": [
+                            "2a5ec74c-9ca1-4afb-8271-e0f75dec0ec8"
+                        ]
+                    },
+                    {
+                        "title": "Patent",
+                        "options": [
+                            "4199b465-1442-466a-93ee-e27f6e1e293b"
+                        ]
+                    },
+                    {
+                        "title": "Baltimora",
+                        "options": [
+                            "15c41548-a35b-4f0d-8e16-70322cb7e546"
+                        ]
+                    },
+                    {
+                        "title": "Exotic",
+                        "options": [
+                            "ef18221e-3ab0-4959-9b22-7d9e52378b4e",
+                            "2eaa2f98-33dd-45cb-bc00-76c9f35e8a74",
+                            "3b10ac16-4f61-4306-a20a-659725d10f42",
+                            "093b5564-abc1-4ea3-9559-6da40418fcf3"
+                        ]
+                    },
+                    {
+                        "title": "Canvas",
+                        "options": [
+                            "d1904ed8-a3a5-4d70-abd5-e2563beeaf9a",
+                            "4d1b94f7-1cb5-4f08-9f11-b072d968666a"
+                        ]
+                    },
+                    {
+                        "title": "Gaucho Calf",
+                        "options": [
+                            "cb0a8607-3fb8-4130-8a57-821844cb12d9"
+                        ]
+                    }
+                ],
+                "camera_position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ],
+        "options": {
+            "Laces": {
+                "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                "groups": {
+                    "lace_types": {
+                        "title": "Lace Type",
+                        "options": [
+                            {
+                                "type": "dea0faf6-6b31-40ed-82f8-844d003e38ec",
+                                "meshes": [
+                                    "laces"
+                                ],
+                                "colours": [
+                                    "68374833-b546-4bce-aece-af7c6d44593c",
+                                    "64f9fc84-9e46-4aa1-8ee8-cb63cd414c33",
+                                    "1294096f-0fe5-40be-876b-f954022da650",
+                                    "d8a7a67f-8be7-4f31-bbf9-1a4017612b70",
+                                    "b48a59a3-b409-43c8-920e-ffb2e521bc71",
+                                    "927e71e5-4fc8-4889-ac69-e433ca35460d"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "Lining": {
+                "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                "groups": {
+                    "lining_colours": {
+                        "title": "Lining Colour",
+                        "intro": "The lining colour intro text",
+                        "options": [
+                            "dc614a72-3e3f-4c7c-911a-84ae9a0626bc",
+                            "cb0af97e-e1cb-4a6a-807a-b592846382c8",
+                            "c520b359-8c2e-4899-b7d4-588925282666",
+                            "8e6d159f-67c7-40b1-abaa-0e6893e2cf17"
+                        ],
+                        "meshes": [
+                            "inside-lining",
+                            "inside-tongue",
+                            "inside-insole"
+                        ]
+                    }
+                }
+            },
+            "Sole": {
+                "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                "groups": {
+                    "sole_types": {
+                        "title": "Sole Type",
+                        "options": [
+                            {
+                                "type": "07be318c-9fef-440d-823c-95078abfaa52",
+                                "meshes": [
+                                    "sole-type-rubber"
+                                ],
+                                "picado": false
+                            }
+                        ]
+                    },
+                    "sole_colours": {
+                        "title": "Sole Colour",
+                        "options": [
+                            "98077c9f-4db2-43e5-b15c-0877aa986e8c",
+                            "75869a28-b5b9-4777-afbe-fd6dd1cbaff1"
+                        ],
+                        "meshes": []
+                    }
+                }
+            },
+            "Stitching": {
+                "image": "https://jasperosso-public-production.s3.amazonaws.com/web/temp_to_delete_later/image_needed.png",
+                "groups": {
+                    "stitching_colours": {
+                        "title": "Stitching Colour",
+                        "intro": "The stitching intro text",
+                        "meshes": [
+                            "stitching-panels"
+                        ],
+                        "options": [
+                            "63cf5fbe-de18-4321-ab0b-cafcb2e450e5",
+                            "6bfb98ae-aebf-4552-b37e-5b1ec0f7b998",
+                            "3981ab8f-3789-4c02-99a4-cf65f077816e",
+                            "387f1598-8a00-4b94-8911-1445fae4ab1d",
+                            "09ebeb9e-6536-4fff-8196-6fd2a3194380",
+                            "cfb9780e-52ab-432b-9dfc-108ca95c5d87",
+                            "b3e252d4-ff16-4049-addf-07870250b780"
+                        ]
+                    }
+                }
+            }
+        },
+        "extras": {
+            "heel_monogram": true
+        }
+    }
+}
